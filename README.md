@@ -5,8 +5,8 @@ fun AboutMe() {
     val middleName = "Rian"
     val lastName = "Hastedi"
     val linkedin = "https://www.linkedin.com/in/dimrnhhh/"
--   val yearsOfExperience = 0
-+   val yearsOfExperience = 1
-    val role = "Native Android Developer"
+-   var yearsOfExperience = 0
++   var yearsOfExperience = 1
+    var role = "Native Android Developer"
 }
 ```
