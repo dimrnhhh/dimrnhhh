@@ -7,6 +7,6 @@ fun AboutMe() {
     val linkedin = "https://www.linkedin.com/in/dimrnhhh/"
 -   var yearsOfExperience = 0
 +   var yearsOfExperience = 1
-    var role = "Android Developer & UI/UX Designer"
+    var roles = mutableListOf("Android Developer", "UI/UX Designer")
 }
 ```
